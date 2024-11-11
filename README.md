@@ -1,9 +1,14 @@
 # CODTECH-Task2
 Name: ASMITA TAMBE
+
 Company: CODTECH IT SOLUTIONS
+
 ID: CT08DS8771
+
 Domain: Cyber Security & Ethical Hacking
+
 Duration: October to November 2024
+
 Mentor: NEELA SANTHOSH KUMAR
 
 Overview of the project
@@ -63,4 +68,5 @@ Provide actionable insights to developers and stakeholders to improve the applic
 After vulnerabilities are fixed, retest the application to ensure the issues have been resolved and that no new vulnerabilities have been introduced.
 
 Technologies used:
+
 Python: Often used to write custom scripts for penetration testing, automation, and vulnerability exploitation.
